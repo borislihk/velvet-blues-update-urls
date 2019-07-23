@@ -1,0 +1,24 @@
+{
+  "name": "BorisLiHK/velvet-blues-update-urls",
+  "license": "MIT",
+  "description": "Modified version of the Wordpress plugin velvet-blues-update-urls",
+  "homepage": "https://github.com/BorisLiHK/velvet-blues-update-urls.git",
+  "authors": [
+    {
+      "name": "velvetblues",
+      "email": "info@velvetblues.com"
+    },
+		{
+			"name": "Boris Li",
+			"email": "boris@s1t2.com.au"
+		}
+  ], 
+  "type": "wordpress-plugin",
+  "keywords": [
+    "wordpress update urls" 
+  ],
+  "require": {
+    "php": ">=7",
+    "aws/aws-sdk-php": "^3.87"
+  }
+}
